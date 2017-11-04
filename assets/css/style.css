@@ -1,0 +1,24 @@
+
+    body {
+        background-image: url("https://upload.wikimedia.org/wikipedia/commons/a/ac/Railyard_LA_river.jpg")
+    }
+
+    .jumbotron {
+        background-color: #8ab3ff;
+        height: 125px;
+        vertical-align: middle;
+        padding: 10px;
+        color: #ffffff;
+        margin-bottom: 10px;
+        
+    }
+
+    .card-heading {
+        background-color: #f5f7fa;
+        text-indent:10px;
+        font-weight: bold;
+    }
+    .card {
+        background-color: #8ab3ff;
+        margin: 10px;
+    }
